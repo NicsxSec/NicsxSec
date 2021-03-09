@@ -4,11 +4,10 @@ I'm a 20 Years old Computer Science
 - 🌱 I’m currently learning JS
 - ⚡ Fun fact: 1/2 of an Alien. 
 
-[![Nacht's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicsxSec&show_icons=true&theme=radical)](https://github.com/NicsxSec)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicsxSec&theme=radical&layout=compact)](https://github.com/NicsxSec)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslint&repo=eslint&theme=radical)](https://github.com/NicsxSec/eslint)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicsxSec&theme=radical&layout=compact)](https://github.com/NicsxSec)
 
 <!--
 **NicsxSec/NicsxSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
