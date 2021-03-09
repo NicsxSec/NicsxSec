@@ -1,0 +1,26 @@
+### Hi there, I'm <a href="https://github.com/NicsxSec">Nacht</a> 👋
+I'm a 20 Years old Computer Science
+- 🔭 I’m currently working on <a href="https://sprintasia.co.id/">Sprint</a>
+- 🌱 I’m currently learning JS
+- ⚡ Fun fact: 1/2 of an Alien. 
+
+[![Nacht's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicsxSec&show_icons=true&theme=radical)](https://github.com/NicsxSec)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eslint&repo=eslint&theme=radical)](https://github.com/NicsxSec/eslint)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicsxSec&theme=radical&layout=compact)](https://github.com/NicsxSec)
+
+<!--
+**NicsxSec/NicsxSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
